@@ -36,7 +36,7 @@
     "findup-sync": "^5.0.0",
     "install": "^0.13.0",
     "is-svg": "^4.3.1",
-    "npm": "^8.19.2",
+    "npm": "^9.7.2",
     "rollup-plugin-execute": "^1.1.1",
     "safe-regex": "^2.1.1"
   },
